@@ -1,0 +1,5 @@
+# Project exclude paths
+/cmake-build-asan/
+/cmake-build-debug/
+/cmake-build-release/
+/cmake-build-ubsan/
